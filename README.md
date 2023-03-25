@@ -17,7 +17,7 @@ NO_C:     # of coil elements,
 Slices:   # of slices,
 Dynamics: # of cardiac phases,
 
-Input data:
+Input data: (The data shared in the "data" folder only contains 7 T1 dynamics, the original data contains 15. Due to limited data size for Github upload, only is shared here. Please contact with us for the full 15 phase.)
 - kspace (RO x PE x NO_C x Dynamics)
 - acs (RO x PE x NO_C x Sices) with CAIPI shifts
 
