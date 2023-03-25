@@ -41,7 +41,7 @@ SMS-COOKIE
          slice acceleration, #of CG iterations
 - Output: reconstructed k-space, reconstructed SENSE-1 Images
          
-Regularized ROCK-SPIRiT
+Regularized SMS-COOKIE
 - Input: raw k-space, sensitivity maps, SMS-COOKIE kernels, split Slice-GRAPPA reconstructed k-space,  kernel sizes,
          slice acceleration, #of CG iterations, # of ADMM loops
 - Output: reconstructed kspace, reconstructed SENSE-1 Images
